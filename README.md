@@ -17,4 +17,4 @@
 
 ---
 
-📧 telefaust@telefaust.com
+📧 faust@telefaust.ru
