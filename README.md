@@ -1,16 +1,20 @@
-## Hi there 👋
+# Андрей "Telefaust" Богачев
 
-<!--
-**Telefaust/Telefaust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Инженер-методист в области телекоммуникаций. Разрабатываю и провожу учебные курсы по IP-телефонии и смежным тематикам, администрирую учебные стенды на ESXi/vSphere, автоматизирую рутину скриптами и запрягаю нейросети.
 
-Here are some ideas to get you started:
+## Чем занимаюсь
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Телеком**: IP-телефония различного разлива
+- **Обучение**: учебный портал на Moodle, лабораторные задания, методические материалы
+- **Инфраструктура**: виртуальные стенды на ESXi/vSphere под конкретные учебные конфигурации
+- **Автоматизация**: Python и Bash — для всего, что можно сделать скриптом
+- **Telegram-боты**: хобби, которое периодически пересекается с работой
+- **Нейросети**: для всего перечисленного и не только
+
+## Вне работы
+
+Масштабный моделизм, фотография, LARP.
+
+---
+
+📧 telefaust@telefaust.com
